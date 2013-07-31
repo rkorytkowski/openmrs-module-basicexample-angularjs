@@ -1,0 +1,2 @@
+openmrs-module-basicexample-angularjs
+=====================================
